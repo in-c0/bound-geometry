@@ -2,7 +2,7 @@ using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 
-public class PatternGenerator : MonoBehaviour
+public class PatternManager : MonoBehaviour
 {
     public GridManager gridManager;
     public float beatInterval = 1.0f;
